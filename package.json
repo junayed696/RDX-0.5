@@ -1,5 +1,5 @@
 {
-  "name": "rdx-bot",
+  "name": "Anika Bot",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "bot",
     "fca"
   ],
-  "author": "SARDAR RDX",
+  "author": "Junayed",
   "license": "ISC",
   "description": "Facebook Messenger Bot with Islamic posts and group management",
   "dependencies": {
