@@ -59,7 +59,7 @@ module.exports = {
     } catch (e) {}
     
     const cardMessage = `==[ ${time} || ${date} ]==
-🌌 ${config.BOTNAME || 'Muskan'} Hello!
+🌌 ${config.BOTNAME || 'Anika'} Hello!
 ─────────────────
 👤 ${senderName}
 📊 Commands: ${commandCount}
