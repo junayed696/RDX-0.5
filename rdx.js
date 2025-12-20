@@ -124,9 +124,9 @@ function loadConfig() {
   } catch (error) {
     logs.error('CONFIG', 'Failed to load config:', error.message);
     config = {
-      BOTNAME: 'SARDAR RDX',
-      PREFIX: '.',
-      ADMINBOT: ['100009012838085'],
+      BOTNAME: 'Anika Bot',
+      PREFIX: '-',
+      ADMINBOT: ['100076343334427'],
       TIMEZONE: 'Asia/Karachi',
       PREFIX_ENABLED: true,
       REACT_DELETE_EMOJI: '😡',
