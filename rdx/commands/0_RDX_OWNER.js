@@ -30,21 +30,21 @@ module.exports = {
 ║   ✨ 𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑 𝐈𝐍𝐅𝐎 ✨   ║
 ╠═══════════════════════════╣
 ║                           ║
-║  👤 𝐍𝐚𝐦𝐞: 𝙺𝚊𝚎𝚕 𝙳𝚛𝚊𝚟𝚎𝚗𝚣     ║
+║  👤 𝐍𝐚𝐦𝐞: Junayed     ║
 ║                           ║
 ╠═══════════════════════════╣
 ║  📱 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐈𝐧𝐟𝐨:          ║
 ║                           ║
 ║  🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤:              ║
-║  facebook.com/kaeldravenz ║
+║  facebook.com/mdyeasin.arafat.junayed ║
 ║                           ║
 ║  📲 𝐖𝐡𝐚𝐭𝐬𝐀𝐩𝐩:              ║
-║  wa.me/923422413092       ║
+║  wa.me/6251       ║
 ║                           ║
 ╠═══════════════════════════╣
 ║  🤖 𝐁𝐨𝐭 𝐃𝐞𝐭𝐚𝐢𝐥𝐬:           ║
 ║                           ║
-║  📛 Name: ${config.BOTNAME || 'SARDAR RDX'}
+║  📛 Name: ${config.BOTNAME || 'Anika Bot'}
 ║  ⚡ Prefix: ${config.PREFIX || '.'}
 ║  💻 Version: 2.0.0        ║
 ║  🛠️ Framework: WS3-FCA    ║
