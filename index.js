@@ -16,18 +16,18 @@ const islamicPath = path.join(__dirname, 'Data/config/islamic_messages.json');
 let botModule = null;
 let botStarted = false;
 
-const BRAND_NAME = "SARDAR RDX";
-const BRAND_WHATSAPP = "+923003310470";
-const BRAND_EMAIL = "sardarrdx@gmail.com";
+const BRAND_NAME = "Yeasin Arafat Junayed";
+const BRAND_Ig = "@the_dark_sociopath_junayed69";
+const BRAND_Fb = "https://www.facebook.com/mdyeasin.arafat.junayed";
 
 function getConfig() {
   try {
     return fs.readJsonSync(configPath);
   } catch {
     return {
-      BOTNAME: 'SARDAR RDX',
+      BOTNAME: 'Anika Bot',
       PREFIX: '.',
-      ADMINBOT: ['100009012838085'],
+      ADMINBOT: ['100076343334427'],
       TIMEZONE: 'Asia/Karachi',
       PREFIX_ENABLED: true,
       REACT_DELETE_EMOJI: '😡',
